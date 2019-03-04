@@ -1,0 +1,2 @@
+# CollegeCourse
+create a C++ program using Visual Studio that could be used by a college to track its courses.  In this program, create a CollegeCourse class includes fields representing department, course number, credit hours, and tuition.  Create a child (sub class) class named LabCourse, that inherits all fields from the the CollegeCourse class, includes one more field that holds a lab fee charged in addition to the tuition. Create appropriate functions for these classes, and write a main() function that instantiates and uses objects of each class
